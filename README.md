@@ -31,7 +31,6 @@
   <code><img title="CSS" height="25" src="https://github.com/Silinde87/Silinde87/blob/main/images/css.svg"></code>
   <code><img title="Git" height="25" src="https://github.com/Silinde87/Silinde87/blob/main/images/git-original.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="https://github.com/Silinde87/Silinde87/blob/main/images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/Silinde87/Silinde87/blob/main/images/vscode.png"></code>
 </p>
 
 <hr>
@@ -57,6 +56,6 @@
   <a align="left" href="https://github.com/Silinde87/silinde87-pet-clinic" title="Spring5 Pet Clinic"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=silinde87&repo=silinde87-pet-clinic&theme=react"></a>
   <a align="right" href="https://github.com/Silinde87/spring5-recipe-project" title="Spring5 Recipe Project"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=silinde87&repo=spring5-recipe-project&theme=react"></a>
 </p>
-<br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 <h4 align="center"><a href=https://github.com/Silinde87?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
 
