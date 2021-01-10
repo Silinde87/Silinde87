@@ -1,6 +1,8 @@
 <h3 align="center">Hello, <a href="https://github.com/Silinde87" title="Profile" target="_blank">I'm Pau</a> 👋</h3>
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/paurodriguezmolina/" title="LinkedIn Profile"><img width="22" src="https://github.com/Silinde87/Silinde87/blob/main/images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/paurodriguezmolina/" title="LinkedIn Profile"><img width="22" src="https://github.com/Silinde87/Silinde87/blob/main/images/linkedin.svg"> LinkedIn </a></code>
+  <code><a href="https://codepen.io/silinde87" title="Codepen Profile"><img width="22" src="https://github.com/Silinde87/Silinde87/blob/main/images/codepen.png"> Codepen </a></code>
+  <code><a href="https://www.freecodecamp.org/silinde87" title="freeCodeCamp Profile"><img width="22" src="https://github.com/Silinde87/Silinde87/blob/main/images/free-code-camp.png"> freeCodeCamp</a></code>
 </h5>
 <br>
 <p align="center">
@@ -30,7 +32,8 @@
   <code><img title="HTML5" height="25" src="https://github.com/Silinde87/Silinde87/blob/main/images/html5.svg"></code>
   <code><img title="CSS" height="25" src="https://github.com/Silinde87/Silinde87/blob/main/images/css.svg"></code>
   <code><img title="Git" height="25" src="https://github.com/Silinde87/Silinde87/blob/main/images/git-original.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="https://github.com/Silinde87/Silinde87/blob/main/images/vscode.png"></code>
+  <code><img title="Visual Studio Code" height="25" src="https://github.com/Silinde87/Silinde87/blob/main/images/vscode.svg"></code>
+  <code><img title="IntelliJ Idea" height="25" src="https://github.com/Silinde87/Silinde87/blob/main/images/idea.png"></code>
 </p>
 
 <hr>
