@@ -9,9 +9,9 @@
   Hi, I'm Pau Rodríguez, self-taught Developer, Oracle Certified Associed & team leader.
   <br>
   <br>
-  🎓 I'm currently walking the extraordinary path of Ironhack, to becoime a MERN Full-Stack developer.
+  🎓 I'm currently walking the extraordinary path of <a href="https://www.ironhack.com/en/web-development">Ironhack</a>, to become a MERN Full-Stack developer.
   <br>
-  🎓 I've obtained the Oracle Certified Associate (OCA)
+  🎓 I've obtained the Oracle Certified Associate (<a href="https://education.oracle.com/x/trackp_333">OCA</a>)
   <br>
   💻 I love writing code and learn anythings about it
   <br>
