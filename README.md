@@ -27,8 +27,8 @@
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
 
 <p align="center">
-  <code><img title="Java" height="25" src="https://github.com/Silinde87/Silinde87/blob/main/images/java-original.svg"></code>
-  <code><img title="Javascript" height="25" src="https://github.com/Silinde87/Silinde87/blob/main/images/javascript.svg"></code>
+  <code><img title="Java" height="25" src="https://github.com/Silinde87/Silinde87/blob/main/images/java.png"></code>
+  <code><img title="Javascript" height="25" src="https://github.com/Silinde87/Silinde87/blob/main/images/javascript-original.svg"></code>
   <code><img title="HTML5" height="25" src="https://github.com/Silinde87/Silinde87/blob/main/images/html5.svg"></code>
   <code><img title="CSS" height="25" src="https://github.com/Silinde87/Silinde87/blob/main/images/css.svg"></code>
   <code><img title="Git" height="25" src="https://github.com/Silinde87/Silinde87/blob/main/images/git-original.svg"></code>
