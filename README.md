@@ -1,9 +1,4 @@
 <h3 align="center">Hello, <a href="https://github.com/Silinde87" title="Profile" target="_blank">I'm Pau</a> 👋</h3>
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/paurodriguezmolina/" title="LinkedIn Profile"><img width="22" src="https://github.com/Silinde87/Silinde87/blob/main/images/linkedin.svg"> LinkedIn </a></code>
-  <code><a href="https://codepen.io/silinde87" title="Codepen Profile"><img width="22" src="https://github.com/Silinde87/Silinde87/blob/main/images/codepen.png"> Codepen </a></code>
-  <code><a href="https://www.freecodecamp.org/silinde87" title="freeCodeCamp Profile"><img width="22" src="https://github.com/Silinde87/Silinde87/blob/main/images/free-code-camp.png"> freeCodeCamp</a></code>
-</h5>
 <br>
 <p align="center">
   Hi, I'm Pau Rodríguez, self-taught Developer, Oracle Certified Associate & team leader.
@@ -20,6 +15,9 @@
   💬 Ask me anything about from <a href="https://github.com/Silinde87/silinde87/issues" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: paurodriguezmolina@gmail.com">paurodriguezmolina@gmail.com</a>
+  <h5 align="center">
+    <code><a href="https://www.linkedin.com/in/paurodriguezmolina/" title="LinkedIn Profile"><img width="22" src="https://github.com/Silinde87/Silinde87/blob/main/images/linkedin.svg"> LinkedIn </a></code>
+  </h5>
 </p>
 
 <hr>
