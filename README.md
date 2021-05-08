@@ -16,28 +16,28 @@
   <br>
   📫 How to reach me: <a href="mailto: paurodriguezmolina@gmail.com">paurodriguezmolina@gmail.com</a>
   <h5 align="center">
-    <code><a href="https://www.linkedin.com/in/paurodriguezmolina/" title="LinkedIn Profile"><img width="22" src="https://github.com/Silinde87/Silinde87/blob/main/images/linkedin.svg"> LinkedIn </a></code>
+    <code><a href="https://www.linkedin.com/in/paurodriguezmolina/" title="LinkedIn Profile"><img width="22" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506336/Personal/Github%20front%20readme/linkedin_wzkegb.svg"> LinkedIn </a></code>
   </h5>
 </p>
 
 <hr>
 
-<h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
+<h2 align="center">Language, Frameworks, Tools & Abilities</h2>
 
 <p align="center">
-  <code><img title="Java" height="25" src="https://github.com/Silinde87/Silinde87/blob/main/images/java.png"></code>
-  <code><img title="Javascript" height="25" src="https://github.com/Silinde87/Silinde87/blob/main/images/javascript-original.svg"></code>
-  <code><img title="React" height="25" src="https://github.com/Silinde87/Silinde87/blob/main/images/react-original.svg"></code>
-  <code><img title="NodeJS" height="25" src="https://github.com/Silinde87/Silinde87/blob/main/images/node.png"></code>
-  <code><img title="ExpressJS" height="25" src="https://github.com/Silinde87/Silinde87/blob/main/images/expressjs.png"></code>
-  <code><img title="HTML5" height="25" src="https://github.com/Silinde87/Silinde87/blob/main/images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="https://github.com/Silinde87/Silinde87/blob/main/images/css.svg"></code>
-  <code><img title="Handlebars" height="25" src="https://github.com/Silinde87/Silinde87/blob/main/images/handlebars.svg"></code>
-  <code><img title="Bootstrap" height="25" src="https://github.com/Silinde87/Silinde87/blob/main/images/bootstrap.svg"></code>
-  <code><img title="MongoDB" height="25" src="https://github.com/Silinde87/Silinde87/blob/main/images/mongodb.png"></code>
-  <code><img title="Git" height="25" src="https://github.com/Silinde87/Silinde87/blob/main/images/git-original.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="https://github.com/Silinde87/Silinde87/blob/main/images/vscode.svg"></code>
-  <code><img title="IntelliJ Idea" height="25" src="https://github.com/Silinde87/Silinde87/blob/main/images/idea.png"></code>
+  <img title="Java" height="25" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506336/Personal/Github%20front%20readme/java_qxplvb.png">
+  <img title="Javascript" height="25" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506336/Personal/Github%20front%20readme/javascript-original_ks2qvl.svg">
+  <img title="React" height="25" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506338/Personal/Github%20front%20readme/react-original_vzqgdf.svg">
+  <img title="NodeJS" height="25" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506337/Personal/Github%20front%20readme/node_wgb8i4.png">
+  <img title="ExpressJS" height="25" src="https://res.cloudinary.com/dkevcmz3i/image/upload/b_rgb:ffffff/v1620506334/Personal/Github%20front%20readme/expressjs_dblcrv.png">
+  <img title="HTML5" height="25" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506334/Personal/Github%20front%20readme/html5_iqjlja.svg">
+  <img title="CSS" height="25" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506334/Personal/Github%20front%20readme/css_yjz8u5.svg">
+  <img title="Handlebars" width="25" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506334/Personal/Github%20front%20readme/handlebars_zkwbsr.svg">
+  <img title="Bootstrap" height="25" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506334/Personal/Github%20front%20readme/bootstrap_ndjvqf.svg">
+  <img title="MongoDB" height="25" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506337/Personal/Github%20front%20readme/mongodb_qxbmpe.png">
+  <img title="Git" height="25" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506334/Personal/Github%20front%20readme/git-original_rjrbdd.svg">
+  <img title="Visual Studio Code" height="25" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506338/Personal/Github%20front%20readme/vscode_b9dlo8.svg">
+  <img title="IntelliJ Idea" height="25" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506335/Personal/Github%20front%20readme/idea_qunsss.png">
 </p>
 
 <hr>
