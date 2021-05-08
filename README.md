@@ -27,8 +27,14 @@
 <p align="center">
   <code><img title="Java" height="25" src="https://github.com/Silinde87/Silinde87/blob/main/images/java.png"></code>
   <code><img title="Javascript" height="25" src="https://github.com/Silinde87/Silinde87/blob/main/images/javascript-original.svg"></code>
+  <code><img title="React" height="25" src="https://github.com/Silinde87/Silinde87/blob/main/images/react-original.svg"></code>
+  <code><img title="NodeJS" height="25" src="https://github.com/Silinde87/Silinde87/blob/main/images/node.png"></code>
+  <code><img title="ExpressJS" height="25" src="https://github.com/Silinde87/Silinde87/blob/main/images/expressjs.png"></code>
   <code><img title="HTML5" height="25" src="https://github.com/Silinde87/Silinde87/blob/main/images/html5.svg"></code>
   <code><img title="CSS" height="25" src="https://github.com/Silinde87/Silinde87/blob/main/images/css.svg"></code>
+  <code><img title="Handlebars" height="25" src="https://github.com/Silinde87/Silinde87/blob/main/images/handlebars.svg"></code>
+  <code><img title="Bootstrap" height="25" src="https://github.com/Silinde87/Silinde87/blob/main/images/bootstrap.svg"></code>
+  <code><img title="MongoDB" height="25" src="https://github.com/Silinde87/Silinde87/blob/main/images/mongodb.png"></code>
   <code><img title="Git" height="25" src="https://github.com/Silinde87/Silinde87/blob/main/images/git-original.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="https://github.com/Silinde87/Silinde87/blob/main/images/vscode.svg"></code>
   <code><img title="IntelliJ Idea" height="25" src="https://github.com/Silinde87/Silinde87/blob/main/images/idea.png"></code>
