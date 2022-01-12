@@ -63,6 +63,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silinde87&title_color=57BCDA&text_color=57BCDA&icon_color=57BCDA&bg_color=0c1014&langs_count=8&layout=compact" style="height: 175px;" />
   </a>
 </div>
-
-<style>
-</style>
