@@ -33,21 +33,21 @@
   display: flex;
   justify-content: center;
 ">
-  <img title="Java" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506336/Personal/Github%20front%20readme/java_qxplvb.png" style="max-height: 25px;max-width: 50px;border-radius: 4px;margin: 5px;">
-  <img title="Javascript" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506336/Personal/Github%20front%20readme/javascript-original_ks2qvl.svg" style="max-height:25px;max-width:50px;border-radius:4px;margin:5px;">
-  <img title="React" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506338/Personal/Github%20front%20readme/react-original_vzqgdf.svg" style="max-height:25px;max-width:50px;border-radius:4px;margin:5px;">
-  <img title="Solidity" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1641984959/Personal/Github%20front%20readme/Solidity_rvdvp7.svg" style="max-height:25px;max-width50px;border-radius:4px;margin: 5px;">
-  <img title="Ethereum" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1641986118/Personal/Github%20front%20readme/ethereum_qp3omn.svg" style="max-height:25px;max-width50px;border-radius:4px;margin: 5px;">
-  <img title="Truffle" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1641986285/Personal/Github%20front%20readme/truffle_sqtcw2.svg" style="max-height:25px;max-width50px;border-radius:4px;margin: 5px;"> 
-  <img title="NextJS" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1641986430/Personal/Github%20front%20readme/next_ksntrp.svg" style="max-height:25px;max-width:50px;border-radius:4px;margin:5px;background-color:white;padding:1px 1px;">
-  <img title="NodeJS" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506337/Personal/Github%20front%20readme/node_wgb8i4.png" style="max-height:25px;max-width:50px;border-radius:4px;margin:5px;background-color:white;padding:1px 1px;">
-  <img title="ExpressJS" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506334/Personal/Github%20front%20readme/expressjs_dblcrv.png" style="max-height:25px;max-width:50px;border-radius:4px;margin:5px;background-color:white;padding:1px 1px;">
-  <img title="HTML5" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506334/Personal/Github%20front%20readme/html5_iqjlja.svg" style="max-height:25px;max-width50px;border-radius:4px;margin: 5px;">
-  <img title="CSS" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506334/Personal/Github%20front%20readme/css_yjz8u5.svg" style="max-height:25px;max-width50px;border-radius:4px;margin: 5px;">
-  <img title="Bootstrap" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506334/Personal/Github%20front%20readme/bootstrap_ndjvqf.svg" style="max-height:25px;max-width50px;border-radius:4px;margin: 5px;">
-  <img title="MongoDB" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506337/Personal/Github%20front%20readme/mongodb_qxbmpe.png" style="max-height:25px;max-width50px;border-radius:4px;margin: 5px;">
-  <img title="Git" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506334/Personal/Github%20front%20readme/git-original_rjrbdd.svg" style="max-height:25px;max-width50px;border-radius:4px;margin: 5px;">
-  <img title="Visual Studio Code" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506338/Personal/Github%20front%20readme/vscode_b9dlo8.svg" style="max-height:25px;max-width50px;border-radius:4px;margin: 5px;">
+  <img title="Java" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506336/Personal/Github%20front%20readme/java_qxplvb.png" height="25" style="margin: 5px;">
+  <img title="Javascript" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506336/Personal/Github%20front%20readme/javascript-original_ks2qvl.svg" height="25" style="margin:5px;">
+  <img title="React" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506338/Personal/Github%20front%20readme/react-original_vzqgdf.svg" height="25" style="margin:5px;">
+  <img title="Solidity" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1641984959/Personal/Github%20front%20readme/Solidity_rvdvp7.svg" height="25" style="background-color: white;margin: 5px;">
+  <img title="Ethereum" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1641986118/Personal/Github%20front%20readme/ethereum_qp3omn.svg" height="25" style="margin: 5px;">
+  <img title="Truffle" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1641986285/Personal/Github%20front%20readme/truffle_sqtcw2.svg" height="25" style="margin: 5px;"> 
+  <img title="NextJS" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1641986430/Personal/Github%20front%20readme/next_ksntrp.svg" height="25" style="margin:5px;background-color:white;">
+  <img title="NodeJS" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506337/Personal/Github%20front%20readme/node_wgb8i4.png" height="25" style="margin:5px;background-color:white;">
+  <img title="ExpressJS" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506334/Personal/Github%20front%20readme/expressjs_dblcrv.png" height="25" style="margin:5px;background-color:white;">
+  <img title="HTML5" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506334/Personal/Github%20front%20readme/html5_iqjlja.svg" height="25" style="margin: 5px;">
+  <img title="CSS" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506334/Personal/Github%20front%20readme/css_yjz8u5.svg" height="25" style="margin: 5px;">
+  <img title="Bootstrap" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506334/Personal/Github%20front%20readme/bootstrap_ndjvqf.svg" height="25" style="margin: 5px;">
+  <img title="MongoDB" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506337/Personal/Github%20front%20readme/mongodb_qxbmpe.png" height="25" style="margin: 5px;">
+  <img title="Git" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506334/Personal/Github%20front%20readme/git-original_rjrbdd.svg" height="25" style="margin: 5px;">
+  <img title="Visual Studio Code" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506338/Personal/Github%20front%20readme/vscode_b9dlo8.svg" height="25" style="margin: 5px;">
 </div>
 
 <hr>
