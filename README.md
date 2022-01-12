@@ -29,10 +29,7 @@
 
 <h2 align="center">Language, Frameworks, Tools & Abilities</h2>
 
-<div style="
-  display: flex;
-  justify-content: center;
-">
+<div align="center">
   <img title="Java" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506336/Personal/Github%20front%20readme/java_qxplvb.png" height="25" style="margin: 5px;">
   <img title="Javascript" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506336/Personal/Github%20front%20readme/javascript-original_ks2qvl.svg" height="25" style="margin:5px;">
   <img title="React" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506338/Personal/Github%20front%20readme/react-original_vzqgdf.svg" height="25" style="margin:5px;">
