@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="styles.css">
 <h3 align="center">Hello, <a href="https://github.com/Silinde87" title="Profile" target="_blank">I'm Pau</a> 👋</h3>
 <br>
 <p align="center">
@@ -49,34 +50,3 @@
   <img class="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silinde87&title_color=57BCDA&text_color=57BCDA&icon_color=57BCDA&bg_color=0c1014&langs_count=8&layout=compact" />
   </a>
 </div>
-
-<style>
-  .tech-logos-wrapper {
-    display: flex;
-    justify-content: center;
-  }
-  .tech-logos {
-    max-height: 25px;
-    max-width: 50px;
-    border-radius: 4px;
-    margin: 5px;
-  }
-  .social-logo {
-    width: 22px;
-    margin: 5px;
-  }
-  .stats-wrapper {
-    margin-top: 15px;
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    gap: 15px;
-  }
-  .white-bg {
-    background-color: white;
-    padding: 1px 1px;
-  }
-  .stats {
-    height: 175px;
-  }
-</style>
