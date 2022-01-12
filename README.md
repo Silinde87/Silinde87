@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="styles.css">
 <h3 align="center">Hello, <a href="https://github.com/Silinde87" title="Profile" target="_blank">I'm Pau</a> 👋</h3>
 <br>
 <p align="center">
@@ -13,8 +12,16 @@
   📫 How to reach me: <a href="mailto: paurodriguezmolina@gmail.com">paurodriguezmolina@gmail.com</a>
 </p>
 <div align="center">
-  <a href="https://www.linkedin.com/in/paurodriguezmolina/" title="LinkedIn Profile"><img class="social-logo" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506336/Personal/Github%20front%20readme/linkedin_wzkegb.svg"></a>
-  <a href="https://twitter.com/Silinde87" title="LinkedIn Profile"><img class="social-logo" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1641984748/Personal/Github%20front%20readme/twitter_agxtqr.svg"></a>
+  <a href="https://www.linkedin.com/in/paurodriguezmolina/" title="LinkedIn Profile"><img src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506336/Personal/Github%20front%20readme/linkedin_wzkegb.svg"
+  style="
+    width: 22px;
+    margin: 5px;
+  "></a>
+  <a href="https://twitter.com/Silinde87" title="LinkedIn Profile"><img src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1641984748/Personal/Github%20front%20readme/twitter_agxtqr.svg"
+  style="
+    width: 22px;
+    margin: 5px;
+  "></a>
 </div>
 
 
@@ -22,31 +29,139 @@
 
 <h2 align="center">Language, Frameworks, Tools & Abilities</h2>
 
-<div class="tech-logos-wrapper">
-  <img title="Java" class="tech-logos" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506336/Personal/Github%20front%20readme/java_qxplvb.png">
-  <img title="Javascript" class="tech-logos" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506336/Personal/Github%20front%20readme/javascript-original_ks2qvl.svg">
-  <img title="React" class="tech-logos" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506338/Personal/Github%20front%20readme/react-original_vzqgdf.svg">
-  <img title="Solidity" class="tech-logos" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1641984959/Personal/Github%20front%20readme/Solidity_rvdvp7.svg">  
-  <img title="Ethereum" class="tech-logos" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1641986118/Personal/Github%20front%20readme/ethereum_qp3omn.svg">  
-  <img title="Truffle" class="tech-logos" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1641986285/Personal/Github%20front%20readme/truffle_sqtcw2.svg">  
-  <img title="NextJS" class="tech-logos white-bg" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1641986430/Personal/Github%20front%20readme/next_ksntrp.svg">  
-  <img title="NodeJS" class="tech-logos white-bg" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506337/Personal/Github%20front%20readme/node_wgb8i4.png">
-  <img title="ExpressJS" class="tech-logos white-bg" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506334/Personal/Github%20front%20readme/expressjs_dblcrv.png">
-  <img title="HTML5" class="tech-logos" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506334/Personal/Github%20front%20readme/html5_iqjlja.svg">
-  <img title="CSS" class="tech-logos" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506334/Personal/Github%20front%20readme/css_yjz8u5.svg">
-  <img title="Bootstrap" class="tech-logos" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506334/Personal/Github%20front%20readme/bootstrap_ndjvqf.svg">
-  <img title="MongoDB" class="tech-logos" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506337/Personal/Github%20front%20readme/mongodb_qxbmpe.png">
-  <img title="Git" class="tech-logos" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506334/Personal/Github%20front%20readme/git-original_rjrbdd.svg">
-  <img title="Visual Studio Code" class="tech-logos" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506338/Personal/Github%20front%20readme/vscode_b9dlo8.svg">
+<div style="
+  display: flex;
+  justify-content: center;
+">
+  <img title="Java" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506336/Personal/Github%20front%20readme/java_qxplvb.png" 
+  style="
+    max-height: 25px;
+    max-width: 50px;
+    border-radius: 4px;
+    margin: 5px;
+  ">
+  <img title="Javascript" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506336/Personal/Github%20front%20readme/javascript-original_ks2qvl.svg"
+   style="
+    max-height: 25px;
+    max-width: 50px;
+    border-radius: 4px;
+    margin: 5px;
+  ">
+  <img title="React" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506338/Personal/Github%20front%20readme/react-original_vzqgdf.svg"
+   style="
+    max-height: 25px;
+    max-width: 50px;
+    border-radius: 4px;
+    margin: 5px;
+  ">
+  <img title="Solidity" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1641984959/Personal/Github%20front%20readme/Solidity_rvdvp7.svg"
+   style="
+    max-height: 25px;
+    max-width: 50px;
+    border-radius: 4px;
+    margin: 5px;
+  ">
+  <img title="Ethereum" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1641986118/Personal/Github%20front%20readme/ethereum_qp3omn.svg"
+   style="
+    max-height: 25px;
+    max-width: 50px;
+    border-radius: 4px;
+    margin: 5px;
+  ">
+  <img title="Truffle" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1641986285/Personal/Github%20front%20readme/truffle_sqtcw2.svg"
+   style="
+    max-height: 25px;
+    max-width: 50px;
+    border-radius: 4px;
+    margin: 5px;
+  "> 
+  <img title="NextJS" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1641986430/Personal/Github%20front%20readme/next_ksntrp.svg"
+   style="
+    max-height: 25px;
+    max-width: 50px;
+    border-radius: 4px;
+    margin: 5px;
+    background-color: white;
+    padding: 1px 1px;
+  ">
+  <img title="NodeJS" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506337/Personal/Github%20front%20readme/node_wgb8i4.png"
+   style="
+    max-height: 25px;
+    max-width: 50px;
+    border-radius: 4px;
+    margin: 5px;
+    background-color: white;
+    padding: 1px 1px;    
+  ">
+  <img title="ExpressJS" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506334/Personal/Github%20front%20readme/expressjs_dblcrv.png"
+   style="
+    max-height: 25px;
+    max-width: 50px;
+    border-radius: 4px;
+    margin: 5px;
+    background-color: white;
+    padding: 1px 1px;    
+  ">
+  <img title="HTML5" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506334/Personal/Github%20front%20readme/html5_iqjlja.svg"
+   style="
+    max-height: 25px;
+    max-width: 50px;
+    border-radius: 4px;
+    margin: 5px;
+  ">
+  <img title="CSS" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506334/Personal/Github%20front%20readme/css_yjz8u5.svg"
+   style="
+    max-height: 25px;
+    max-width: 50px;
+    border-radius: 4px;
+    margin: 5px;
+  ">
+  <img title="Bootstrap" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506334/Personal/Github%20front%20readme/bootstrap_ndjvqf.svg"
+   style="
+    max-height: 25px;
+    max-width: 50px;
+    border-radius: 4px;
+    margin: 5px;
+  ">
+  <img title="MongoDB" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506337/Personal/Github%20front%20readme/mongodb_qxbmpe.png"
+   style="
+    max-height: 25px;
+    max-width: 50px;
+    border-radius: 4px;
+    margin: 5px;
+  ">
+  <img title="Git" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506334/Personal/Github%20front%20readme/git-original_rjrbdd.svg"
+   style="
+    max-height: 25px;
+    max-width: 50px;
+    border-radius: 4px;
+    margin: 5px;
+  ">
+  <img title="Visual Studio Code" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506338/Personal/Github%20front%20readme/vscode_b9dlo8.svg"
+   style="
+    max-height: 25px;
+    max-width: 50px;
+    border-radius: 4px;
+    margin: 5px;
+  ">
 </div>
 
 <hr>
 
-<div class="stats-wrapper">
+<div style="
+  margin-top: 15px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 15px;
+">
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img class="stats" src="https://github-readme-stats.vercel.app/api?username=silinde87&show_icons=true&theme=react">
+    <img src="https://github-readme-stats.vercel.app/api?username=silinde87&show_icons=true&theme=react" style="height: 175px;">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img class="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silinde87&title_color=57BCDA&text_color=57BCDA&icon_color=57BCDA&bg_color=0c1014&langs_count=8&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silinde87&title_color=57BCDA&text_color=57BCDA&icon_color=57BCDA&bg_color=0c1014&langs_count=8&layout=compact" style="height: 175px;" />
   </a>
 </div>
+
+<style>
+</style>
