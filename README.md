@@ -11,25 +11,25 @@
 </p>
 
 <div align="center" style="margin-top: 10px;">
-  <a href="https://www.linkedin.com/in/paurodriguezmolina/" style="text-decoration:none;">
+  <a href="https://www.linkedin.com/in/paurodriguezmolina/">
     <img alt="Linkedin Profile Button" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white">
   </a>
-  <a href="https://medium.com/@paurodriguezmolina" style="text-decoration:none;">
+  <a href="https://medium.com/@paurodriguezmolina">
     <img alt="Medium Profile Button" src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white">
   </a>
-  <a href="mailto: paurodriguezmolina@gmail.com" style="text-decoration:none;">
+  <a href="mailto: paurodriguezmolina@gmail.com">
     <img alt="Contact me button gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white">
   </a>
 </div>
 
 <div align="center" style="margin-top: 15px; margin-bottom: 25px;">
-  <a href="https://github.com/Silinde87?tab=followers" style="text-decoration:none;">
+  <a href="https://github.com/Silinde87?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Silinde87?color=green&logo=github">
   </a>
-  <a href="https://github.com/Silinde87?tab=followers" style="text-decoration:none;">
+  <a href="https://github.com/Silinde87?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/stars/Silinde87?logo=github">
   </a>
-  <a href="https://reddit.com/user/Silinde87" style="text-decoration:none;">
+  <a href="https://reddit.com/user/Silinde87">
     <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/Silinde87?label=karma&logo=reddit">
   </a>
 </div>
@@ -65,6 +65,8 @@
           <img src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1641986285/Personal/Github%20front%20readme/truffle_sqtcw2.svg" width="48" height="48" alt="Truffle" />
         <br>Truffle
       </td>
+    </tr>
+    <tr>
       <td align="center" width="96">
           <img src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1641986430/Personal/Github%20front%20readme/next_ksntrp.svg" width="48" height="48" alt="NextJS" />
         <br>NextJS
@@ -76,9 +78,7 @@
       <td align="center" width="96">
           <img src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506334/Personal/Github%20front%20readme/expressjs_dblcrv.png" width="48" height="48" alt="ExpressJS" />
         <br>ExpressJS
-      </td>      
-    </tr>
-    <tr>
+      </td>    
       <td align="center"  width="96">
           <img src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506337/Personal/Github%20front%20readme/mongodb_qxbmpe.png" width="48" height="48" alt="MongoDB" />
         <br>MongoDB
@@ -91,6 +91,8 @@
           <img src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1650374045/Personal/Github%20front%20readme/storybook_bcuvvx.svg" width="48" height="48" alt="Storybook" />
         <br>Storybook
       </td>
+    </tr>
+    <tr>
       <td align="center" width="96">
           <img src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1650374079/Personal/Github%20front%20readme/contentful_xtryq4.png" width="48" height="48" alt="Contentful" />
         <br>Contentful
