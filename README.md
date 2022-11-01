@@ -51,7 +51,7 @@
       </td>
       <td align="center" width="96">
           <img src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506338/Personal/Github%20front%20readme/react-original_vzqgdf.svg" width="48" height="48" alt="React" />
-        <br>React
+        <br>React & Native
       </td>
       <td align="center" width="96">
           <img src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1641984959/Personal/Github%20front%20readme/Solidity_rvdvp7.svg" width="48" height="48" alt="Solidity" />
@@ -106,8 +106,8 @@
         <br>CSS3
       </td>
       <td align="center"  width="96">
-          <img src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506334/Personal/Github%20front%20readme/bootstrap_ndjvqf.svg" width="48" height="48" alt="Bootstrap" />
-        <br>Bootstrap
+          <img src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1667326256/Personal/Github%20front%20readme/Typescript_logo_2020.svg_hu4dk9.png" width="48" height="48" alt="Bootstrap" />
+        <br>TypeScript
       </td>
       <td align="center"  width="96">
           <img src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1650374432/Personal/Github%20front%20readme/styled_ghmrbe.png" width="71" height="48" alt="Styled-Components" />
